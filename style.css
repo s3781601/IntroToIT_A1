@@ -11,7 +11,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
     display:block;
     }
     
-    html, body {background: #949494; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #82fdfd;}
+    html, body {background: #333333; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #F4DECB;}
     
     .clear {clear: both;}
     
@@ -19,20 +19,20 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
         font-size: 1em;
         line-height: 1.4em;
         margin-bottom: 20px;
-        color: #008cff;
+        color: #F9EEE7;
     }
     
     #cv {
         width: 90%;
         max-width: 800px;
-        background: #1C2541;
+        background: #49274A;
         margin: 30px auto;
     }
     
     .mainDetails {
         padding: 25px 35px;
-        border-bottom: 2px solid #5BC0BE;
-        background: #3A506B;
+        border-bottom: 2px solid #F4DECB;
+        background: #94618E;
     }
     
     #name h1 {
@@ -81,26 +81,27 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
     
     #contactDetails ul li {
         margin-bottom: 3px;
-        color: #0B132B;
+        color: #f3e8df;
     }
     
     #contactDetails ul li a, a[href^=tel] {
-        color: #0B132B; 
+        color: #f3e8df; 
         text-decoration: none;
         -webkit-transition: all .3s ease-in;
         -moz-transition: all .3s ease-in;
         -o-transition: all .3s ease-in;
         -ms-transition: all .3s ease-in;
         transition: all .3s ease-in;
+        margin-bottom: 2000000px;
     }
     
     #contactDetails ul li a:hover { 
-        color: #6FFFE9;
+        color: #c5af9c;
     }
     
     
     section {
-        border-top: 1px solid #5BC0BE;
+        border-top: 1px solid #F4DECB;
         padding: 20px 0 0;
     }
     
@@ -124,9 +125,8 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
     
     .sectionTitle h1 {
         font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
-        font-style: italic;
         font-size: 1.5em;
-        color: #6FFFE9;
+        color: #F4DECB;
     }
     
     .sectionTitle img {
@@ -147,7 +147,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
     }
     
     .sectionContent img {
-        border: 2px solid #50AAA9;
+        border: 2px solid #F9EEE7;
     }
     
     .subDetails {
@@ -163,7 +163,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
         column-count:3;
         margin-bottom: 20px;
         font-size: 1em;
-        color: #50AAA9;
+        color: #F9EEE7;
     }
     
     .keySkills ul li {
